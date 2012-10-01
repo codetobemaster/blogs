@@ -15,7 +15,11 @@ development:
   database: blogs_development
   pool: 5
   username: root
+<<<<<<< HEAD
   password: tannv
+=======
+  password:
+>>>>>>> 9440694eff6f38ba66c4b5c98b8368aaffdf5fa8
   socket: /var/run/mysqld/mysqld.sock
 
 # Warning: The database defined as "test" will be erased and
@@ -28,7 +32,11 @@ test:
   database: blogs_test
   pool: 5
   username: root
+<<<<<<< HEAD
   password: tannv
+=======
+  password:
+>>>>>>> 9440694eff6f38ba66c4b5c98b8368aaffdf5fa8
   socket: /var/run/mysqld/mysqld.sock
 
 production:
@@ -38,5 +46,9 @@ production:
   database: blogs_production
   pool: 5
   username: root
+<<<<<<< HEAD
   password: tannv
+=======
+  password:
+>>>>>>> 9440694eff6f38ba66c4b5c98b8368aaffdf5fa8
   socket: /var/run/mysqld/mysqld.sock

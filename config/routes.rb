@@ -1,8 +1,11 @@
 Blogs::Application.routes.draw do
+<<<<<<< HEAD
   resources :microposts
 
   resources :users
 
+=======
+>>>>>>> 9440694eff6f38ba66c4b5c98b8368aaffdf5fa8
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
